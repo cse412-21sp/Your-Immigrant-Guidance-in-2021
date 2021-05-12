@@ -2,7 +2,7 @@
 
 ## Team Members
 
-Place your team member names here.
+Kenny Mai, Benjamin Jiang, Weiqiao Shen, Mike Huang, Siyue Zhu
 
 ### Contribution Statements
 
@@ -10,7 +10,7 @@ Add individual contribution statements here.
 
 ## Project Proposal Abstract
 
-This is the space for you to add a description for your project.
+As a part of globalization, immigration has become one of the common phenomena in modern times. This visualization project aims to give the general audience a broad idea of how suitable each country is based on their preference. We are using data visualization on statistics of 6 countries to give guidance to the general audience.  We’ve come up with 6-7 FAQs about these countries that an immigrant would concern the most, and use data from reliable data sources, such as UN(United Nations), IMF(International Merchandise Foundation), WB(World Bank) and more, and the visualization of them to respond to these aspects. This project is reader-oriented, allowing readers to freely rank their most cared for factors and finally output a suitable country for them.
 
 ## Getting Started
 
