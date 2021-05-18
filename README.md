@@ -1,4 +1,4 @@
-# CSE412 Final Project Template (Idyll)
+# Your Immigrant Guidance in 2021
 
 ## Team Members
 
