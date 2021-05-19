@@ -2,7 +2,7 @@
 
 ## Team Members
 
-Kenny Mai, Benjamin Jiang, Weiqiao Shen, Mike Huang, Siyue Zhu
+Benjamin Jiang, Kenny Mai, Mike Huang, Siyue Zhu, Weiqiao Shen
 
 ### Contribution Statements
 
