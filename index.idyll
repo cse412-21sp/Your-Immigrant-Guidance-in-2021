@@ -4,7 +4,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 [Header
   fullWidth:true
   title:"Your Immigrant Guidance in 2021"
-  subtitle:"Look through the FAQs about Immigrant and make your choice!"
+  subtitle:"Look through the FAQs about Immigrant and make your own choice!"
   author:"Benjamin Jiang, Kenny Mai, Mike Huang, Siyue Zhu, Weiqiao Shen"
   date:"Apr 6, 2021"
   background:"#33333f"
