@@ -77,15 +77,15 @@ Idyll has a pre-supported component for rendering D3 visualizations; to create a
 
 [D3Sunshine data:sunshine /]
 
-#### Embedding Tableau visualizations
+#### Q3: Will I be healthy in this country?(Richard)
 
-If you look at the `index.idyll`, this is how you can embed Tableau visualizations:
+The Following is the visulization about health and tax of the countries.
 
-[TableauEmbed link:"https://public.tableau.com/views/412demo/Sheet1?" width:"100%" height:"400"/]
+[TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/tax?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
 
 `TableauEmbed` is a custom component defined in the file `tableau-embed.js`. You can similarly [create your own custom components](https://idyll-lang.org/docs/components/custom) for other types of embeddings.
 
-#### Embedding Observable visualizations
+#### Will my kids grow up well in this
 
 You can embed Observable visualizations as follows:
 
