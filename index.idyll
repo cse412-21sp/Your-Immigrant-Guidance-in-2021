@@ -76,21 +76,24 @@ The main thing to note when using the API is that you must call `.toSpec()` at t
 Idyll has a pre-supported component for rendering D3 visualizations; to create a visualization, you can write a new component that extends this custom class. To see how this work, take a look at the file `d3-sunshine` in the `components` directory. In essence, you will create a seperate custom D3 component for each visualization that you would like to create in D3 for your page.
 
 [D3Sunshine data:sunshine /]
+#### Q2: Will I Get a Job in this country?
 
-#### Q3: Will I be healthy in this country?(Richard)
+The Following is the visualization about the job opportunities of the countries.
 
-The Following is the visulization about health and tax of the countries.
+[TableauEmbed link:"https://public.tableau.com/views/Book1_16215179438780/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
+
+#### Q3: Will I be healthy in this country?
+
+The Following is the visualization about health and tax of the countries.
 
 [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/tax?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
-
-`TableauEmbed` is a custom component defined in the file `tableau-embed.js`. You can similarly [create your own custom components](https://idyll-lang.org/docs/components/custom) for other types of embeddings.
 
 
 #### Q4 Will my kids grow up well in this country?
 
-You can embed Observable visualizations as follows:
+The Following is the visualization about the children's growth of the countries
 
-[TableauEmbed link:"https://public.tableau.com/profile/yiming.huang7743#!/vizhome/Book1_16215631344340/Dashboard1" width:"100%" height:"600"/]
+[TableauEmbed link:"https://public.tableau.com/shared/P2CZS4SHT?:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
 
 [FullWidth]
 [ObservableEmbed link:"https://observablehq.com/embed/@cse412/cse-412-section-3-vega-lite?cells=horsepower_acceleration"width:"100%" height:"445"/]
