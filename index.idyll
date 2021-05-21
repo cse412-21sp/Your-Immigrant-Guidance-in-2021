@@ -103,6 +103,14 @@ The original visualization is on the larger side, so we can display it using a `
 
 [span style:`{color:'#aaa', fontStyle:'italic'}`]Note: If you don't like having the Tableau or Observable branding on your page, consider porting the visualizations to Vega-Lite or D3. Interactions will also be smoother and more responsive for visualizations that have been ported over, rather than those that are embedded from a different website. When designing your narrative, think about how important the interactions are for communicating the main takeaways, and decide on a particular implementation accordingly.[/span]
 
+#### Q5 How is the environment, and how well are the people residing there.
+
+The following visualization will give you an abstract view of human development and the country's environment.
+
+[TableauEmbed link:"https://public.tableau.com/profile/benjamin.j.jiang#!/vizhome/Humandevelopement/People" width:"100%" height:"600"/]
+
+[TableauEmbed link:"https://public.tableau.com/profile/benjamin.j.jiang#!/vizhome/Enviroments/Environment" width:"100%" height:"600"/]
+
 #### Embedding Plotly visualizations
 
 Similar to the other embedded visualizations, you can embed interactive Plotly visualizations using the custom component `PlotlyEmbed`:
