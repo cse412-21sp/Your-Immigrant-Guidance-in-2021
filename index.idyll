@@ -85,9 +85,12 @@ The Following is the visulization about health and tax of the countries.
 
 `TableauEmbed` is a custom component defined in the file `tableau-embed.js`. You can similarly [create your own custom components](https://idyll-lang.org/docs/components/custom) for other types of embeddings.
 
-#### Will my kids grow up well in this
+
+#### Q4 Will my kids grow up well in this country?
 
 You can embed Observable visualizations as follows:
+
+[TableauEmbed link:"https://public.tableau.com/profile/yiming.huang7743#!/vizhome/Book1_16215631344340/Dashboard1" width:"100%" height:"600"/]
 
 [FullWidth]
 [ObservableEmbed link:"https://observablehq.com/embed/@cse412/cse-412-section-3-vega-lite?cells=horsepower_acceleration"width:"100%" height:"445"/]
