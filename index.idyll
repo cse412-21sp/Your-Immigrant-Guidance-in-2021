@@ -77,7 +77,11 @@ Idyll has a pre-supported component for rendering D3 visualizations; to create a
 
 [D3Sunshine data:sunshine /]
 
-### Q1: How does the demographic of this country looks like?
+## Introduction:
+
+The following question is going to answer some of the most common immigration questions to accommodate your interest. We will break it down into five categories with interactive data to present you with the most appropriate information. Also, we will have a custom rank between the top seven countries that we think is the most suitable for immigration ranging from all the continent and climate. We believe that we can have insightful recommendations for all the concerns you have. Please take your time and play with our slides.
+
+#### Q1: How does the demographic of this country looks like?
 
 The Following visualization display insightful information regards to the demographic information of the country of your interest.
 
