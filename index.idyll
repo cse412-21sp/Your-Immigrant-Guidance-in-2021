@@ -76,6 +76,13 @@ The main thing to note when using the API is that you must call `.toSpec()` at t
 Idyll has a pre-supported component for rendering D3 visualizations; to create a visualization, you can write a new component that extends this custom class. To see how this work, take a look at the file `d3-sunshine` in the `components` directory. In essence, you will create a seperate custom D3 component for each visualization that you would like to create in D3 for your page.
 
 [D3Sunshine data:sunshine /]
+
+### Q1: How does the demographic of this country looks like?
+
+The Following visualization display insightful information regards to the demographic information of the country of your interest.
+
+[TableauEmbed link:"https://public.tableau.com/views/Demographic_16216430350340/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
+
 #### Q2: Will I Get a Job in this country?
 
 The Following is the visualization about the job opportunities of the countries.
