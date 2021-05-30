@@ -15,7 +15,7 @@
     "d3-scale-chromatic": "^2.0.0",
     "d3-selection": "^2.0.0",
     "d3-transition": "^2.0.0",
-    "idyll": "^5.0.0",
+    "idyll": "^5.5.3",
     "idyll-d3-component": "^2.0.0",
     "idyll-vega-lite": "^2.1.0",
     "vega-lite-api": "^5.0.0"
