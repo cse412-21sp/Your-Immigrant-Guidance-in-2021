@@ -56,11 +56,56 @@ The Following visualization display insightful information regards to the demogr
     [/Step]
 [/Scroller]
 
-#### Q3: Will I be healthy in this country?
+## Q3: What about the welfare?
 
-The Following is the visualization about health and tax of the countries.
+[Scroller]
+    [Graphic]
+        ![example](https://img.freepik.com/free-vector/people-holding-heart-hand-icons_53876-66152.jpg?size=626&ext=jpg)
+    [/Graphic]
+    [Step]
+    ### Introduction
+    To assess the welfare, we'd like to catch a glimpse of indicators in two aspects, basically the health system and the tax rate.
+    [/Step]
+    [Step]
+        ### Overall Health System Performance
+        According to a paper published from World Health Organization (WHO), we have scores and rankings of the 119 countries all over the world. 1.00 is set as the full mark and the countries are ranked by their scores in descending order. Japan, Germany, Australia and United States are among the top 40 and should be the ideal choices.
+        [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/ScoresofOverallHealthSystemPerformance?:language=en-US&:display_count=n&:origin=viz_share_link"
+           width:"100%" height:"400"/]
+    [/Step]
+    [Step]
+        ### Health Expenditure
+        Health expenditure plays an important role in health system evaluation. We have three indicators concerning the health expenditure.
 
-[TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/tax?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
+         [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/healthexpenditure1?:language=en-US&:display_count=n&:origin=viz_share_link"
+                    width:"100%" height:"400"/]
+         [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/healthexpenditure2?:language=en-US&:display_count=n&:origin=viz_share_link"
+                             width:"100%" height:"500"/]
+    [/Step]
+    [Step]
+        ### Health Insurance
+     Health insurance is an essential make-up of health system that it provides financial protection in case people have a serious accident or illness. We provide the coverage of health insurance collected by ILO in 2014.
+
+      [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/Shareofpopulationcoveredbyhealthinsurance?:language=en-US&:display_count=n&:origin=viz_share_link"
+                    width:"100%" height:"400"/]
+    [/Step]
+[/Scroller]
+[Scroller]
+    [Graphic]
+        ![example](https://static.vecteezy.com/system/resources/previews/001/386/208/non_2x/tax-payment-concept-with-people-and-calendar-vector.jpg)
+    [/Graphic]
+    [Step]
+        ### Tax
+    People pay taxes to fund a variety of federal, state, and local services. Half of Americans' tax burden is for federal programs. However, taxes can also eat up a considerable portion of people's salary. We have tax rate in three dimensions to give a sense of how much tax you should pay.
+
+      [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/incometaxinpercentage?:language=en-US&:display_count=n&:origin=viz_share_link"
+                    width:"100%" height:"400"/]
+      [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/socialsecuritytaxrateforemployee?:language=en-US&:display_count=n&:origin=viz_share_link"
+                          width:"100%" height:"400"/]
+      [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/socialsecuritytaxrateforemployer?:language=en-US&:display_count=n&:origin=viz_share_link"
+                                width:"100%" height:"400"/]
+
+    [/Step]
+[/Scroller]
 
 #### Q4: How is the environment, and how well are the people residing there?
 
