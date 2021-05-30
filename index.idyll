@@ -54,25 +54,26 @@ The following visualization will give you an abstract view of human development 
     [/Step]
     [Step]
         ### Under Five Mortality Rate
-        Kids are vulnerable when they are under five, The mortality rate under five indicates how the health infrastructure supports
+        Kids are *vulnerable* when they are under five,
+        The mortality rate under five indicates how the infrastructure
+        supports the first five years of kids.
 
         [TableauEmbed link:"https://public.tableau.com/views/Book1_16215631344340/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link"
            width:"100%" height:"400"/]
     [/Step]
     [Step]
         ###Education
-        Education is essential for children’s mental development that could expand from infant to adult.
-        The gross enrollment rate shows the. Notice that most countries have a high enrollment rate at
-        the first stage of education, while as the degree of education increases,
-        the enrollment rate decreases. Think about what degree would you want your kids to be in and
+        Education is essential for children’s *mental and physical development*.
+        The gross enrollment rate is the ratio of currently enrolled population in the stage of education
+        over the population in suitable ages.
 
          [TableauEmbed link:"https://public.tableau.com/views/Book1_16215631344340/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link"
                     width:"100%" height:"400"/]
     [/Step]
     [Step]
-        ###NEET
+     ###NEET
      NEET(Not in Education, Employment, or Training indicate what is the general)
-     provides an index of how teenagers are involved in social engagement,
+     provides an index of how teenagers are involved in social engagement after 18,
      including continuous education, employment, and training.
 
       [TableauEmbed link:"https://public.tableau.com/views/Book1_16215631344340/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link"
@@ -80,8 +81,12 @@ The following visualization will give you an abstract view of human development 
     [/Step]
     [Step]
         ### Conclusion
-        With these indexes about children’s development, we can get a glance of how children are fed in these candidate countries,
-        and hopefully it helps your decision of the country of immigrants.
+        With these data about children’s development, we can get a sense of how children are grown in
+        the candidate countries.
     [/Step]
 
 [/Scroller]
+
+## In the end
+Immigration is one of the long-lasting topic in social events. The five parts above provide a glance on some angles
+to consider during making such important decision.
