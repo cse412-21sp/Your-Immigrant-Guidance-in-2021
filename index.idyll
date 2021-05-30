@@ -21,11 +21,40 @@ The Following visualization display insightful information regards to the demogr
 
 [TableauEmbed link:"https://public.tableau.com/views/Demographic_16216430350340/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
 
-#### Q2: Will I Get a Job in this country?
+## Q2 How is the labor marker in this country?
+[Scroller]
+    [Graphic]
+        ![example](https://cdn.corporatefinanceinstitute.com/assets/labor-market.jpeg)
+    [/Graphic]
+    [Step]
+    ### Introduction
+    Now we look at the labor marker in those seven countries. Due to the differnet economic structure, social background and natural environment, there are many differences exsit in those countries.
+    [/Step]
+    [Step]
+        ### Unemployment Rate
+        We can first focus on the unemployment rate, which is one aspect which many people care about. We can see from the graph that South Africa has the highest unemployment rate, which is above 25% for both genders. And Brazil has the second highest unemployment rate above 10% for both genders. If you need to find a job in the target country, we recommand countries other than South Africa and Brazil.
+        [TableauEmbed link:"https://public.tableau.com/views/Image2_16223821399740/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link"
+           width:"100%" height:"400"/]
+    [/Step]
+    [Step]
+        ###Average Annual Income
+        What's more, we can take a look at the average annual income in each country. We can see Germany has avarge annual income exceed 50k and Australia exceed 40k. Income is an important feature representing the living quality, especially when measuring whether people can live decently.
 
-The Following is the visualization about the job opportunities of the countries.
+         [TableauEmbed link:"https://public.tableau.com/views/Image3_16223823778950/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link"
+                    width:"100%" height:"400"/]
+    [/Step]
+    [Step]
+        ###Distribution of Different Industries
+     We can also take a step into the distribution of the three major industries: agriculture, industry and services. These are the three traditional area in the labor market. And we can see services takes the largest portion among all countres. However, if you prefer to work in the area of agriculture, Philippines and Brazil are good choices. And if industry looks good to you, then you can take Japan and Germany into consideration.
 
-[TableauEmbed link:"https://public.tableau.com/views/Book1_16215179438780/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
+      [TableauEmbed link:"https://public.tableau.com/views/Image1_16223820048030/Sheet13?:language=en-US&:display_count=n&:origin=viz_share_link"
+                          width:"100%" height:"400"/]
+    [/Step]
+    [Step]
+        ### Conclusion
+ Hope this section can help you take a glance of the labor market in different countries and help you make your decesion of which country  you want to immigrant to.
+    [/Step]
+[/Scroller]
 
 #### Q3: Will I be healthy in this country?
 
@@ -48,13 +77,13 @@ The following visualization will give you an abstract view of human development 
     [/Graphic]
     [Step]
     ### Introduction
-    Raising kids is a *pleasant and meaningful* event in one’s life.
+    Raising kids is a **pleasant and meaningful** event in one’s life.
     We illustrate three important stages while raising a kid to
     indicate whether the candidate countries are suitable for raising kids.
     [/Step]
     [Step]
         ### Under Five Mortality Rate
-        Kids are *vulnerable* when they are under five,
+        Kids are **vulnerable** when they are under five,
         The mortality rate under five indicates how the infrastructure
         supports the first five years of kids.
 
@@ -63,7 +92,7 @@ The following visualization will give you an abstract view of human development 
     [/Step]
     [Step]
         ###Education
-        Education is essential for children’s *mental and physical development*.
+        Education is essential for children’s **mental and physical development**.
         The gross enrollment rate is the ratio of currently enrolled population in the stage of education
         over the population in suitable ages.
 
@@ -86,6 +115,7 @@ The following visualization will give you an abstract view of human development 
     [/Step]
 
 [/Scroller]
+
 
 ## In the end
 Immigration is one of the long-lasting topic in social events. The five parts above provide a glance on some angles
