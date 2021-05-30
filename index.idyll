@@ -9,7 +9,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
   date:"Apr 6, 2021"
   background:"#33333f"
   color:"#ffffff"
-   /]
+/]
 
 ## Introduction:
 
@@ -24,7 +24,7 @@ The Following visualization display insightful information regards to the demogr
 ## Q2 How is the labor marker in this country?
 [Scroller]
     [Graphic]
-        ![example](https://cdn.corporatefinanceinstitute.com/assets/labor-market.jpeg)
+        ![example](https://image.freepik.com/free-vector/group-people-different-professions_274115-8.jpg)
     [/Graphic]
     [Step]
     ### Introduction
@@ -70,7 +70,7 @@ The following visualization will give you an abstract view of human development 
 
 [TableauEmbed link:"https://public.tableau.com/views/Enviroments/Environment?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
 
-## Q5 Will my kids grow up well in this country?
+## Q5: Will my kids grow up well in this country?
 [Scroller]
     [Graphic]
         ![example](https://i.enkiquotes.com/cHD_2-2cNI7asNw5VoChP3wI-qU=/800x0//images/2016/07/db4beef74ca2667d152ea62ae2bf1d47.jpg)
