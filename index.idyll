@@ -103,7 +103,7 @@ The following visualization will give you an abstract view of human development 
      ###NEET
      NEET(Not in Education, Employment, or Training indicate what is the general)
      provides an index of how teenagers are involved in social engagement after 18,
-     including continuous education, employment, and training.
+     including **continuous education, employment, and training**.
 
       [TableauEmbed link:"https://public.tableau.com/views/Book1_16215631344340/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link"
                           width:"100%" height:"400"/]
@@ -120,3 +120,9 @@ The following visualization will give you an abstract view of human development 
 ## In the end
 Immigration is one of the long-lasting topic in social events. The five parts above provide a glance on some angles
 to consider during making such important decision.
+
+#### Data Source
+* [World Bank](https://data.worldbank.org/)
+* [United Nations](https://data.un.org/)
+* [United Nations Children’s Emergency Fund](https://data.unicef.org/)
+
