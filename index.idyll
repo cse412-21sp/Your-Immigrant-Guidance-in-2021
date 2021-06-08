@@ -3,168 +3,248 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 
 [Header
   fullWidth:true
-  title:"Your Immigrant Guidance in 2021"
-  subtitle:"Look through the FAQs about Immigrant and make your own choice!"
+  title:"The Immigrant Guidance"
+  subtitle:"Take a glance at some of the essential aspect regarding immigration.!"
   author:"Benjamin Jiang, Kenny Mai, Mike Huang, Siyue Zhu, Weiqiao Shen"
   date:"Apr 6, 2021"
   background:"#33333f"
   color:"#ffffff"
 /]
 
-## Introduction:
+#Introduction:
 
-This project is going to answer some of the most common immigration questions to accommodate your interest. We will break it down into five sections with interactive data to present you with the most appropriate information. Also, we will have a custom rank between the top seven countries that we think is the most suitable for immigration ranging from all the continent and climate. We believe that we can have insightful recommendations for all the concerns you have. Please take your time and play with our slides.
+[div className:'container']
+	[div className:'row']
+		[div className:'col-6']
+			[p]The International Organization for Migration (IOM) has released its latest World Migration Report. Do you know that internationally there is about 3.5 percent of the global population migrating to another country? Out of 7.7 billion people, there were 272 million migrants. The United States remains the largest destination country, followed by Germany, Saudi Arabia, Russia, and the United Kingdom. Yet, the data is still showing an upward trend of about 3% growth every five years since 1990. It has become a global phenomenon where people migrate to another country for adventure or a better life. The data collected for this project are the latest data source available[/p]	                  
+		[/div]
+		[div className:'col-6']
+			[img src:'img/imgration.jpeg'][/img]
+		[/div]
+	[/div]
+	
+	[div className:'row']
+		[div className:'col-12']
+			[TableauEmbed link:"https://public.tableau.com/views/PopulationGrowthRate_16230972572560/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" 
+				width:"100%" height:"500"/]
+		[/div]
+	[/div]
+[/div]
 
-#### Q1: How does the demographic of this country looks like?
+[div className:'mt-3']
+	[p]Suppose you are interested in emigrating to another country. In that case, we believe that this project will assist you in exploring some of the important aspect that you might consider regarding migration. For your convenience, We will break it down into five categories with interactive data to present you with the most appropriate information ranging from demographics, labor market, welfare, environment, to education. To accommodate different diversity, we picked seven countries that are the best to immigrate to worldwide.[/p]
+[/div]
 
-The Following visualization display insightful information regards to the demographic information of the country of your interest.
+#Section 1: What about the Demographic?
 
-[TableauEmbed link:"https://public.tableau.com/views/Demographic_16216430350340/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link" width:"100%" height:"600"/]
-
-## Q2 How is the labor marker in this country?
-[Scroller]
-    [Graphic]
-        ![example](https://image.freepik.com/free-vector/group-people-different-professions_274115-8.jpg)
-    [/Graphic]
-    [Step]
-    ### Introduction
-    Now we look at the labor marker in those seven countries. Due to the differnet economic structure, social background and natural environment, there are many differences exsit in those countries.
-    [/Step]
-    [Step]
-        ### Unemployment Rate
-        We can first focus on the unemployment rate, which is one aspect which many people care about. We can see from the graph that South Africa has the highest unemployment rate, which is above 25% for both genders. And Brazil has the second highest unemployment rate above 10% for both genders. If you need to find a job in the target country, we recommend countries other than South Africa and Brazil.
-        [TableauEmbed link:"https://public.tableau.com/views/Image2_16223821399740/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link"
-           width:"100%" height:"400"/]
-    [/Step]
-    [Step]
-        ###Average Annual Income
-        What's more, we can take a look at the average annual income in each country. We can see Germany has average annual income exceed 50k and Australia exceed 40k. Income is an important feature representing the living quality, especially when measuring whether people can live decently.
-
-         [TableauEmbed link:"https://public.tableau.com/views/Image3_16223823778950/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link"
-                    width:"100%" height:"400"/]
-    [/Step]
-    [Step]
-        ###Distribution of Different Industries
-     We can also take a step into the distribution of the three major industries: agriculture, industry and services. These are the three traditional area in the labor market. And we can see services takes the largest portion among all countres. However, if you prefer to work in the area of agriculture, Philippines and Brazil are good choices. And if industry looks good to you, then you can take Japan and Germany into consideration.
-
-      [TableauEmbed link:"https://public.tableau.com/views/Image1_16223820048030/Sheet13?:language=en-US&:display_count=n&:origin=viz_share_link"
-                          width:"100%" height:"400"/]
-    [/Step]
-    [Step]
-        ### Conclusion
- Hope this section can help you take a glance of the labor market in different countries and help you make your decesion of which country  you want to immigrant to.
-    [/Step]
-[/Scroller]
-
-## Q3: What about the welfare?
-
-[Scroller]
-    [Graphic]
-        ![example](https://img.freepik.com/free-vector/people-holding-heart-hand-icons_53876-66152.jpg?size=626&ext=jpg)
-    [/Graphic]
-    [Step]
-    ### Introduction
-    To assess the welfare, we'd like to catch a glimpse of indicators in two aspects, basically the **health system** and the **tax rate**.
-    [/Step]
-    [Step]
-        ### Health Expenditure
-        Health is a vital issue **throughout one's life**. Higher healthcare expenditure usually means better **provision of health opportunities**. We have three indicators concerning the health expenditure. The United States government has attached great importance to health care that the U.S. has the highest expenditure in all of the three dimensions. Australia, Germany, Japan take up the rest of the top 4.
-
-         [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/healthexpenditure1?:language=en-US&:display_count=n&:origin=viz_share_link"
-                    width:"100%" height:"400"/]
-         [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/healthexpenditure2?:language=en-US&:display_count=n&:origin=viz_share_link"
-                             width:"100%" height:"500"/]
-    [/Step]
-    [Step]
-        ### Health Insurance
-     Health insurance is an essential make-up of health system that it provides **financial protection** in case people have a serious accident or illness. According to ILO, Australia, Brazil, Germany, Japan, and South Africa has reach a 100% coverage of health insurance by 2014.
-
-      [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/Shareofpopulationcoveredbyhealthinsurance?:language=en-US&:display_count=n&:origin=viz_share_link"
-                    width:"100%" height:"400"/]
-    [/Step]
-    [Step]
-        ### Overall Health System Performance
-        To overview the health system performance, we turn to a paper published from WHO (World Health Organization). In this paper, the health system of 119 countries worldwide has been scored. 1.00 is set as the full mark and the countries are ranked by their scores in descending order. Australia, Germany, Japan and the United States are the top 4 among the seven and the top 40 worldwide. If you are interested in countries with advanced health system, Australia, Germany, Japan and the United States are definitely the ideal ones.
-        [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/ScoresofOverallHealthSystemPerformance?:language=en-US&:display_count=n&:origin=viz_share_link"
-           width:"100%" height:"400"/]
-    [/Step]
-[/Scroller]
-[Scroller]
-    [Graphic]
-        ![example](https://static.vecteezy.com/system/resources/previews/001/386/208/non_2x/tax-payment-concept-with-people-and-calendar-vector.jpg)
-    [/Graphic]
-    [Step]
-        ### Tax
-    People pay taxes to fund a variety of federal, state, and local services. Half of Americans' tax burden is for federal programs. However, taxes can also **eat up a considerable portion of people's salary**. We have tax rate in three dimensions to give a sense of how much tax you should pay. Overall, Japan and Germany have the top 3 highest tax rate in all three dimensions. If you aren't willing to bear too much burden from your income tax and social secuirty tax, check countries other than Japan and Germany.
-
-      [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/incometaxinpercentage?:language=en-US&:display_count=n&:origin=viz_share_link"
-                    width:"100%" height:"400"/]
-      [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/socialsecuritytaxrateforemployee?:language=en-US&:display_count=n&:origin=viz_share_link"
-                          width:"100%" height:"400"/]
-      [TableauEmbed link:"https://public.tableau.com/views/412FinalProjectRac/socialsecuritytaxrateforemployer?:language=en-US&:display_count=n&:origin=viz_share_link"
-                                width:"100%" height:"400"/]
-
-    [/Step]
-[/Scroller]
-
-#### Q4: How is the environment, and how well are the people residing there?
-
-The following visualization will give you an abstract view of human development and the country's environment.
-
-[TableauEmbed link:"https://public.tableau.com/views/Humandevelopement/People?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
-
-[TableauEmbed link:"https://public.tableau.com/views/Enviroments/Environment?:language=en&:display_count=y&:origin=viz_share_link" width:"100%" height:"600"/]
-
-## Q5: Will my kids grow up well in this country?
-[Scroller]
-    [Graphic]
-        ![example](https://i.enkiquotes.com/cHD_2-2cNI7asNw5VoChP3wI-qU=/800x0//images/2016/07/db4beef74ca2667d152ea62ae2bf1d47.jpg)
-    [/Graphic]
-    [Step]
-    ### Introduction
-    Raising kids is a **pleasant and meaningful** event in one’s life.
-    We illustrate three important stages while raising a kid to
-    indicate whether the candidate countries are suitable for raising kids.
-    [/Step]
-    [Step]
-        ### Under Five Mortality Rate
-        Kids are **vulnerable** when they are under five,
-        The mortality rate under five indicates how the infrastructure
-        supports the first five years of kids.
-
-        [TableauEmbed link:"https://public.tableau.com/views/Book1_16215631344340/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link"
-           width:"100%" height:"400"/]
-    [/Step]
-    [Step]
-        ###Education
-        Education is essential for children’s **mental and physical development**.
-        The gross enrollment rate is the ratio of currently enrolled population in the stage of education
-        over the population in suitable ages.
-
-         [TableauEmbed link:"https://public.tableau.com/views/Book1_16215631344340/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link"
-                    width:"100%" height:"400"/]
-    [/Step]
-    [Step]
-     ###NEET
-     NEET(Not in Education, Employment, or Training indicate what is the general)
-     provides an index of how teenagers are involved in social engagement after 18,
-     including **continuous education, employment, and training**.
-
-      [TableauEmbed link:"https://public.tableau.com/views/Book1_16215631344340/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link"
-                          width:"100%" height:"400"/]
-    [/Step]
-    [Step]
-        ### Conclusion
-        With these data about children’s development, we can get a sense of how children are grown in
-        the candidate countries.
-    [/Step]
-
-[/Scroller]
+[div className:'container']
+	[div className:'row']
+		[div className:'col-12']
+			[p][strong]Let’s start by exploring some of the basic 			demogrhic information of the selected countries.[/			strong] Depending on your field of interest you might 			choose to migrant to country with more more diversify 			ethnicity, or perhaps you are more interested in 		countries 	where people live longer. There will be a table that provide some of the basic demographic informations for you to explore, click on the country to see information specific to that country on the bottom.[/p]
+		[/div]
+		[div className:'col-12']
+			[TableauEmbed link:"https://public.tableau.com/views/demographic_Info/Dashboard1?:language=zh-CN&:display_count=n&:origin=viz_share_link" 
+			width:"100%" height:"500"/]
+		[/div]
+		
+		[div className:'col-12']
+			###Population
+			[p]The United States has the largest population of 32 million people, followed by Brazil and Japan. Notice that even though the landmass of Australia of is more than 20 time that of Japan, its population are only one-fifth of Japan. If you enjoy living in a less crowded country, then Australia would be a perfect choice.[/p]
+		
+			[TableauEmbed link:"https://public.tableau.com/views/pop_16231091275990/Sheet8?:language=en-US&:display_count=n&:origin=viz_share_link" 
+				width:"100%" height:"400"/]
+		[/div]
+			
+		[div className:'col-12']
+			###Age Distribution
+			[p]The age distribution of a country determines the size of the labor market. The majority of the population in all countries is of the working-age, while population aging is severe in some countries. For example, in Japan, almost 30 percent of the population is 65 years or older, while in South Africa, the number is only 0.09 percent. At the same time, The Following visualization displays some critical information about the age distribution of each country. In the end, too many older people will cause a deficit in government spending since they don't have enough people to pay money while the government has to spend more on welfare.[/p]
+			
+			[TableauEmbed link:"https://public.tableau.com/views/p2_16225232555920/Dashboard4?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link" width:"100%" height:"500"/] 
+		[/div]
+		             
+		[div className:'col-12']
+			### Race & Ethnicity
+			[p]You can now click on the list of countries to explore their distribution of race and ethnicity on the left of the visualization below. Out of the countries available, Japan has a very homogeneous ethnicity distribution where most people are Japanese. On the other hand, Australia has a very diverse population, with most of them being English.  However, most countries are dominated by one race, either Asian, European, African, or Hispanic. Diversity is also the reason why each region has its unique, splendid culture.[/p]
+			
+			[TableauEmbed link:"https://public.tableau.com/views/race_16231061047150/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"500"/]
+		[/div]
+	[/div]
+[/div]
 
 
-## In the end
-Immigration is one of the long-lasting topic in social events. The five parts above provide a glance on some angles
-to consider during making such important decision.
+
+[br /]
+[br /]
+[br /]
+[br /]
+
+#Section 2: Is the labor market looks promising?
+[div className:'container']
+	[div className:'row']
+		[div className:'col-12']
+			[p]**Since not every immigrant can afford to live without working, it is crucial to look at the labor market in the designated country.** We will analyze the working force with different economic structures and social backgrounds by focusing on the unemployment rate, average income, and industry distribution to help you build your career in a foreign country.[/p]
+		[/div]
+		
+		[div className:'col-12']
+			###Unemployment Rate
+			[p]Since the unemployment rate directly dictates the likelihood of getting a job, we must look at it carefully. South Africa has a whopping 26 percent unemployment rate out of all the available countries, followed by Brazil; you will need to be extra prepared if you are looking to get a job in either country. Such a high unemployment rate is due to the concentration of labor in the metropolitan area. When there are more people than jobs available, you will have a higher unemployment rate.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/unemployment_Rate/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link" width:"90%" height:"400"/]
+		[/div]
+		
+		[div className:'col-12']
+			###Average Annual Income
+			[p]On the other hand, the average annual income is directly related to your daily life quality. With a higher income, you will most likely have a more comfortable life, where Australia and Germany both exceed forty thousand dollars. Thus, Australia and Germany will be a better choice if you wish to have more freedom on money.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/Average_income/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"400"/]
+	[/div]
+		[div className:'col-12']
+			###Distribution of Different Industries
+			[p]There are Agriculture, Industry, and Service in the traditional areas of the labor market. With the service industry contributing significantly to the domestic and global economy, services usually take the most significant portion among different countries. However, if you are looking for a job in the agriculture sector, then the Philippines and Brazil are your best choice since they have a more significant proportion. Finally, Japan and Germany have a very high degree of industrialization; if you are an engineer, you should consider both countries if you choose to work in the industry.[/p]
+		[/div]
+	[/div]
+[/div]
+
+[div className:'fullwidth']
+				[TableauEmbed link:"https://public.tableau.com/views/distribution_industry/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"450"/]
+[/div]
+
+[div className:'mt-3 row']
+	[p]**Bring it all together.** So far, we have a look at the performance of the labor markets independently. We think Germany, Australia, and Japan are performing the best in this section through a more comprehensive analysis. Although the Philippines has a similar unemployment rate as Germany, the average annual income is only one-tenth of Germany, making it less desirable to immigrate to if you care about the quality of life. Next, we will inspect the welfare of a country.[/p]
+[/div]
+
+[br /]
+[br /]
+[br /]
+[br /]
+
+#Section 3: What about the welfare?
+[div className:'container']
+	[div className:'row']
+		[div className:'col-12']
+			[p]**While income largely accounts for the best living quality possible in a country, welfare accounts for the worst living quality one can have.** Social welfare plays an essential role in reducing socio-economic inequalities and protecting people from various hardships crucial in catalyzing society's prosperity. This section will focus on a country's overall health performance, the number of health expenditures, and health insurance.[/p]
+		[/div]
+		
+		[div className:'col-12']
+	      ### Overall Health System Performance
+	      [p]To overview the health system performance, we will use the scoring system from WHO(World Health Organization). The scoring system measured 191 countries worldwide based on five indicators: population health level, health inequalities, health system responsiveness, distribution of responsiveness, and distribution of health expenditure. Based on WHO, Australia, Germany, Japan, and the United States are the top 4 among the seven, and they are also top 40 worldwide. Ideally, Australia, Germany, Japan, and the United States are countries with more well-rounded health systems that are more advanced.[/p]
+				[TableauEmbed link:"https://public.tableau.com/views/ScoresofOverallHealthSystemPerfromance/ScoresofOverallHealthSystemPerformance?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"400"/]
+		[/div]
+		
+		[div className:'col-12']
+			### Health Expenditure
+			[p]Naturally, a higher overall health performance ranking indicates that the government invests more money in the health system. Since Health is a vital issue throughout one's life, higher healthcare expenditure usually means the better provision of health opportunities.  However, the cost of health care should also be taken into consideration. Even though the United States spends significantly more money on its health system than the others, the citizen is also paying more money to enjoy the health care. The higher cost offsets the expenditure, making the United States only rank 37, which is behind Japan which ranks 10.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/ScoresofOverallHealthSystemPerfromance/healthexpenditure1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"400"/]
+			
+			[TableauEmbed link:"https://public.tableau.com/views/ScoresofOverallHealthSystemPerfromance/healthexpenditure2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"500"/]
+		[/div]
+
+		[div className:'col-12']
+			###May the Tax be with You
+			[p]While people enjoy the welfare that the government provides, it is also their responsibility to pay taxes to fund everything from local services to ensuring national securities. Half of Americans' tax burden is for federal programs. However, taxes can also consume a considerable portion of people's salaries. There are three main types of taxes that we focus on in the visualization. The tax types on the button right allow you to view between Social security tax rates for employees/ employers and the income tax. Overall, Japan and Germany have the top 3 highest tax rates in all three dimensions. If you aren't willing to bear too much burden from your income tax and social security tax, you should choose other countries than Japan and Germany.[/p]
+			[TableauEmbed link:"https://public.tableau.com/shared/NTCSQ28M9?:display_count=n&:origin=viz_share_link" width:"80%" height:"400"/]
+		[/div]	
+	[/div]
+
+[/div]
+	[div className:'mt-3']
+		[p]
+			**Overall, there seems to be a correlation between tax rate and health care performance.** Since the government has more money to spend, the country will likely receive more benefits regarding health care; this is why Japan is ranked highest out of the seven countries for both WHO score and tax rate.
+		[/p]
+	[/div]
+		
+[br /]
+[br /]
+[br /]
+[br /]
+
+#Section 4: Let's take a look on the environment, and how developed are the people?
+
+[div className:'container']
+	[div className:'row']
+		[div className:'col-12']
+			[p]**Nowadays, safety and the environment are also a big concern for people who are trying to immigrate.** People want to enjoy the fresh air and keeping the environment intact. Also, people might care about the general education of the people and determine whether the country is pleasing. Here you will see several visualizations regarding the wellness of the people and the environment.[/p]
+			
+		### Human Developement Index
+		[/div]
+		[div className:'col-6']
+			[p]The human development index represents a comprehensive check on people's life expectancy, education, and per capita income to measure human development. Based on each country's rank, you will have a better idea of which country is more developed, thus having better life quality. Out of 189 countries in the human development index ranking, Germany by far ranked the highest, followed by Australia. The two countries are the most developed of the seven countries we picked. It is usually true that people will have good manners and be more respectful.[/p]
+		[/div]
+		[div className:'col-6']
+			[TableauEmbed link:"https://public.tableau.com/views/HDI_ranking/HumanDevelopeindexsglobalranking?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"320"/]
+		[/div]
+		
+		[div className:'col-12']
+			### Prison Rate
+			[p]The incarceration rate, in some sense, could reflect the stability of the society, which indicates a safer environment to live in. When people are away from their hometown, and everything is unfamiliar, safety should be an essential factor regarding residing in another country. Japan has the lowest prison rate with merely 30 people for every 100000 people. Finally, if safety is mainly concerned with, then Japan and Germany would be a priority consideration.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/PrisonRate_16230986734830/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"300"/]
+		[/div]
+		
+		[div className:'col-12']
+			### Forest Area
+			[p]After we check the wellness of the citizens, we can inspect the quality of the environment. As a percentage of landmass, the forest area determines how much **green** you will have in everyday life. If you are fond of nature, you might want to be in a country with a higher forest-to-land ratio where people have more opportunities to walk in the park and visit the zoo. Moreover, the forest can absorb CO2, which provides cleaner air in general. Nevertheless, despite the landmass of Japan, its forests are as high as 68% in 2018, making it preferable for people who like nature.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/Forest_area_16230996007690/Forestareaaspercentageoflandarea?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"500"/]
+		[/div]
+		
+		[div className:'col-12']
+			### CO2 Emission rate
+			[p]On the other hand, while forests can absorb CO2, greenhouse gas emissions are the culprit for global warming. As a member of the earth, it should be everyone's responsibility to minimize their CO2 emission to provide a better environment for our descendants. The lower CO2 level can make the Greenhouse gas level lower, which makes a better world. More industrialized countries are inevitable with higher CO2 emission rates; it explains why Japan and Germany have a significantly higher CO2 emission rate than the Philippines. Also, Japan and Germany perform much better than the United States and Australia; they emit 40 percent less CO2 when having such a high HDI ranking, showing that they have a high standard on protecting the environment.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/CarbonDioxide_16231000870730/Carbondioxide?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"400"/]
+		[/div]
+		
+		[div className:'col-12']
+			### Heritage Sites
+			[p]The UNESCO world heritage sites are an excellent way to reveal the rich culture of a country. More heritage sites will give people more opportunities to explore the mystery of the country's past. Such an adventure will provide you with the chance to know the country and its culture better. Germany has the most heritage sites as a traveler and immigrant, which makes it optimal for visiting. Also, you can view all the UNESCO heritage by clicking on the country. It will bring you to the UNESCO official websites, which give you all the information you need.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/heritage_16231004198960/Heritagesitecounts?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"400"/]
+		[/div]
+	[/div]
+[/div]
+
+[br /]
+[br /]
+[br /]
+[br /]
+
+#Section 5: I want a Kids, Will the kid live well? 
+
+[div className:'container']
+	[div className:'row']
+		[div className:'col-12']
+			[p]**Raising kids is a [strong]pleasant and meaningful[/strong] event in one's life.** We use kids mortality rate, education, and adult social engagement to illustrate three important stages to determine whether the candidate countries are suitable for raising kids. [/p]
+		[/div]
+		
+		[div className:'col-12']
+			### Under Five Mortality Rate
+			[p]Kids are [strong]vulnerable[/strong] when they are under five. The mortality rate under five indicates how the infrastructure supports the first five years of kids. In the previous sections, we discussed healthcare and discovered that developing countries have poor health system performance. To some extent, this also reflects on the child mortality rate where we can see that Brazil and South Africa are having such a high mortality rate with an incomplete health care system.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/mortality_16231013197750/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"300"/]
+		[/div]
+		
+		[div className:'col-12']
+			### Education
+			[p]Education is essential for children's [strong]mental and physical development[/strong]. The ratio between the enrolled student and the population within the suitable education ages is the gross enrollment rate. Here we divided education into three sections where the primary and secondary focus on the children's early education. Tertiary education is the college rate that focuses on the higher education of individuals; as you can see, Australia is performing relatively well in all three categories, ensuring that children could be well educated if you choose to live here. [/p]
+			[p]Note that there is a slider on the bottom right of the visualization that you could explore the three stages of education enrollment rate by sex for all seven countries. Click on the slider and explore the stage that you are interested in.[/p]
+			
+			[TableauEmbed link:"https://public.tableau.com/views/education-2/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"500"/]
+		[/div]
+		
+		[div className:'col-12']
+			### NEET
+			[p]NEET(Not in Education, Employment, or Training indicate what is the general) provides an index of how teenagers are involved in social engagement after 18, including continuous education, employment, and training.[/p]
+			[TableauEmbed link:"https://public.tableau.com/views/NEET_16231010870100/Sheet3?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"450"/]
+		[/div]
+	[/div]
+	
+	[div className:'mt-3 row']
+		[p]**With these data about children’s development, we can get a great sense of how children are grown in the candidate countries.** But raising children requires much more than what we have shown in this section. Again this is just a glance at some of the aspects when evaluating a country's children's development.[/p]
+	[/div]
+	
+[/div]
+
+[br /]
+[br /]
+[br /]
+[br /]
+# Bringing it together.
+
+Over the past couple of sections, we've explored some important aspect that immigrants will consider. But immigration is a long-lasting topic in our society, and it is hard to include every possible detail in our project. Thus, the five sections that we have included in this project are just a glance at some of the angles to consider when making such an important decision. We hope that this project will give you more insight into whether you should immigrate and where to immigrate.
 
 ### Data Source
 * [World Bank](https://data.worldbank.org/)
@@ -173,4 +253,10 @@ to consider during making such important decision.
 * [World Health Organization](https://www.who.int/)
 * [Organisation for Economic Co-operation and Development](https://www.oecd.org/)
 * [Our world in data](https://ourworldindata.org/)
+* [Statistics Bureau of Japan](https://www.stat.go.jp/english/index.html)
+
+## About US
+This project is created by Kenny Mai, Mike Huang, Benjamin Jing, Weiqiaao Shen, and Siyue Zhu for the course CSE412: Data Visualization in the University of Washingtoon.
+
+Special thanks to professor: **Jane Hoffswell**, and teaching assistants: **Aayush Chhaabra**, **Dalton Hildreth**, **Kalyani Marathe**, **Yue Zhang**, and **Yueqian Zhang**.
 
