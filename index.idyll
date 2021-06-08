@@ -4,7 +4,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 [Header
   fullWidth:true
   title:"The Immigrant Guidance"
-  subtitle:"Take a glance at some of the essential aspect regarding immigration.!"
+  subtitle:"Take a glance at some of the essential aspect regarding immigration!"
   author:"Benjamin Jiang, Kenny Mai, Mike Huang, Siyue Zhu, Weiqiao Shen"
   date:"Apr 6, 2021"
   background:"#33333f"
@@ -32,7 +32,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 [/div]
 
 [div className:'mt-3']
-	[p]Suppose you are interested in emigrating to another country. In that case, we believe that this project will assist you in exploring some of the important aspect that you might consider regarding migration. For your convenience, We will break it down into five categories with interactive data to present you with the most appropriate information ranging from demographics, labor market, welfare, environment, to education. To accommodate different diversity, we picked seven countries that are the best to immigrate to worldwide.[/p]
+	[p]Suppose you are interested in emigrating to another country. In that case, we believe that this project will assist you in exploring some of the important criteria that you might consider regarding migration. For your convenience, We will break it down into five categories with interactive data to present you with the most appropriate information ranging from demographics, labor market, welfare, environment, to education. To accommodate different diversity, we picked [Annotation annotation:"Japan, Germany, Australia, South Africa, Philippines, United States, Brazil"]seven countries[/Annotation] that are the best to immigrate to worldwide.[/p]
 [/div]
 
 #Section 1: What about the Demographic?
@@ -40,7 +40,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 [div className:'container']
 	[div className:'row']
 		[div className:'col-12']
-			[p][strong]Let’s start by exploring some of the basic 			demogrhic information of the selected countries.[/			strong] Depending on your field of interest you might 			choose to migrant to country with more more diversify 			ethnicity, or perhaps you are more interested in 		countries 	where people live longer. There will be a table that provide some of the basic demographic informations for you to explore, click on the country to see information specific to that country on the bottom.[/p]
+			[p][strong]Let’s start by exploring some of the basic demographic information of the selected countries,[/strong] depending on your field of interest, you might choose to migrate to a country with diverse ethnicity,  or perhaps you are more interested in countries 	where people live longer. On the right, there will be a table that provides some of the basic demographic information for you to explore; click on the country to see data specific to that country.[/p]
 		[/div]
 		[div className:'col-12']
 			[TableauEmbed link:"https://public.tableau.com/views/demographic_Info/Dashboard1?:language=zh-CN&:display_count=n&:origin=viz_share_link" 
@@ -49,7 +49,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 		
 		[div className:'col-12']
 			###Population
-			[p]The United States has the largest population of 32 million people, followed by Brazil and Japan. Notice that even though the landmass of Australia of is more than 20 time that of Japan, its population are only one-fifth of Japan. If you enjoy living in a less crowded country, then Australia would be a perfect choice.[/p]
+			[p]The United States has the largest population of 32 million people, followed by Brazil and Japan. Notice that even though the landmass of Australia is 20 times more than that of Japan, its population is only one-fifth of Japan. If you enjoy living in a less crowded country, then Australia would be a perfect choice.[/p]
 		
 			[TableauEmbed link:"https://public.tableau.com/views/pop_16231091275990/Sheet8?:language=en-US&:display_count=n&:origin=viz_share_link" 
 				width:"100%" height:"400"/]
@@ -57,7 +57,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 			
 		[div className:'col-12']
 			###Age Distribution
-			[p]The age distribution of a country determines the size of the labor market. The majority of the population in all countries is of the working-age, while population aging is severe in some countries. For example, in Japan, almost 30 percent of the population is 65 years or older, while in South Africa, the number is only 0.09 percent. At the same time, The Following visualization displays some critical information about the age distribution of each country. In the end, too many older people will cause a deficit in government spending since they don't have enough people to pay money while the government has to spend more on welfare.[/p]
+			[p]The age distribution of a country determines the size of the labor market. The majority of the population in all countries is of the working-age, while population aging is severe in some countries. For example, in Japan, almost 30 percent of the population is 65 years or older, while in South Africa, the number is only 0.09 percent. At the same time, the following visualization displays some critical information about the age distribution of each country. In the end, too many older people will cause a deficit in government spending since they don't have enough people to pay tax while the government has to spend more on welfare.[/p]
 			
 			[TableauEmbed link:"https://public.tableau.com/views/p2_16225232555920/Dashboard4?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link" width:"100%" height:"500"/] 
 		[/div]
@@ -93,7 +93,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 		
 		[div className:'col-12']
 			###Average Annual Income
-			[p]On the other hand, the average annual income is directly related to your daily life quality. With a higher income, you will most likely have a more comfortable life, where Australia and Germany both exceed forty thousand dollars. Thus, Australia and Germany will be a better choice if you wish to have more freedom on money.[/p]
+			[p]On the other hand, the average annual income is directly related to your daily life quality. With a higher income, you will more likely have a more comfortable life, where Australia and Germany both exceed forty thousand dollars. Thus, Australia and Germany will be a better choice if you wish to have more freedom on money.[/p]
 			[TableauEmbed link:"https://public.tableau.com/views/Average_income/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"400"/]
 	[/div]
 		[div className:'col-12']
@@ -125,7 +125,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 		
 		[div className:'col-12']
 	      ### Overall Health System Performance
-	      [p]To overview the health system performance, we will use the scoring system from WHO(World Health Organization). The scoring system measured 191 countries worldwide based on five indicators: population health level, health inequalities, health system responsiveness, distribution of responsiveness, and distribution of health expenditure. Based on WHO, Australia, Germany, Japan, and the United States are the top 4 among the seven, and they are also top 40 worldwide. Ideally, Australia, Germany, Japan, and the United States are countries with more well-rounded health systems that are more advanced.[/p]
+	      [p]To overview the health system performance, we will use the scoring system from WHO(World Health Organization). The scoring system measured 191 countries worldwide based on five indicators: population health level, health inequalities, health system responsiveness, distribution of responsiveness, and distribution of health expenditure. Based on WHO, Australia, Germany, Japan, and the United States are the top 4 among the seven, and they are also top 40 worldwide. Ideally, Australia, Germany, Japan, and the United States are countries with more advanced health systems.[/p]
 				[TableauEmbed link:"https://public.tableau.com/views/ScoresofOverallHealthSystemPerfromance/ScoresofOverallHealthSystemPerformance?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"400"/]
 		[/div]
 		
@@ -193,7 +193,7 @@ description:"The initial template for the CSE412 Final Projects (Spring 2021)" /
 		[div className:'col-12']
 			### Heritage Sites
 			[p]The UNESCO world heritage sites are an excellent way to reveal the rich culture of a country. More heritage sites will give people more opportunities to explore the mystery of the country's past. Such an adventure will provide you with the chance to know the country and its culture better. Germany has the most heritage sites as a traveler and immigrant, which makes it optimal for visiting. Also, you can view all the UNESCO heritage by clicking on the country. It will bring you to the UNESCO official websites, which give you all the information you need.[/p]
-			[TableauEmbed link:"https://public.tableau.com/views/heritage_16231004198960/Heritagesitecounts?:language=en-US&:display_count=n&:origin=viz_share_link" width:"80%" height:"400"/]
+			[TableauEmbed link:"https://public.tableau.com/views/heritage_16231004198960/Heritagesitecounts?:language=en-US&:display_count=n&:origin=viz_share_link" width:"100%" height:"400"/]
 		[/div]
 	[/div]
 [/div]
@@ -253,7 +253,10 @@ Over the past couple of sections, we've explored some important aspect that immi
 * [World Health Organization](https://www.who.int/)
 * [Organisation for Economic Co-operation and Development](https://www.oecd.org/)
 * [Our world in data](https://ourworldindata.org/)
-* [Statistics Bureau of Japan](https://www.stat.go.jp/english/index.html)
+* [United Nations Educational, Scientific and Cultural Organization](https://en.unesco.org/)
+* [United Nations Development Programme](https://www.undp.org/)
+* [World Prison Brief](https://www.prisonstudies.org/)
+
 
 ## About US
 This project is created by Kenny Mai, Mike Huang, Benjamin Jing, Weiqiaao Shen, and Siyue Zhu for the course CSE412: Data Visualization in the University of Washingtoon.
